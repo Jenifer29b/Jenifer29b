@@ -12,7 +12,7 @@
 
 - About Me 👩
 - I thrive in collaborative environments and enjoy turning complex problems into simple, elegant solutions. Currently, I'm working on projects that involve creating tools to make learning web development easier and developing web-based compilers. 
-- 
+ 
 - 💞️ I’m looking to collaborate on ...
 -   I open to collaborative on the web Developemnt projects
        

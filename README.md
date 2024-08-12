@@ -15,11 +15,10 @@
 - 
 - 💞️ I’m looking to collaborate on ...
 -   I open to collaborative on the web Developemnt projects
--      
+       
 - 📫 How to reach me ...
 -   send me an mail : jenifer29b@gmail.com
 - 😄 Pronouns: ...
 - she/her
--
-- 
+
 

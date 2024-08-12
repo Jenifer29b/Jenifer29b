@@ -1,4 +1,4 @@
-# 👋 Hi Guys ,mI'm Jenifer
+# 👋 Hi Guys! I'm Jenifer
 
 - # ⚛️ Skills  and Technologies : </br>
   **Front-End**: HTML, CSS, JavaScript, React  </br>
@@ -9,7 +9,7 @@
 - # 🌱 I’m currently learning :
 - As a Full Stack Developer ❤😎...
 
-- #  About Me 👩
+- # 👩 About Me 
 - I am passionate Full-Stack Developer with a knack for building seamless and efficient web applications. I thrive in collaborative environments and enjoy turning complex problems into simple, elegant solutions. Currently, I'm working on projects that involve creating tools to make learning web development easier and developing web-based compilers. 
  
 - # 💞️ I’m looking to collaborate on ...

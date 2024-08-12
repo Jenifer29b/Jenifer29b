@@ -2,7 +2,7 @@
 -    "I'm Jenifer, a passionate Full-Stack Developer with a knack for building seamless and efficient web applications.."
 -
   ⚛️ Skills  and Technologies :
-  **Front-End**: HTML, CSS, JavaScript, React
+  **Front-End**: HTML, CSS, JavaScript, React  </br>
   **Back-End**: Node.js, Express
   **Databases**: MongoDB, MySQL
   **Tools**: Git, VSCode    
